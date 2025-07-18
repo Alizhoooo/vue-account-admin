@@ -83,6 +83,8 @@ yarn preview
 ```
 ## Скриншот
 
+https://vue-account-admin.vercel.app
+
 ![Демо интерфейс](./public/screen1.png)
 
 ## Особенности реализации
