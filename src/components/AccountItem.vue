@@ -180,7 +180,7 @@ watch(() => props.account, (newAccount) => {
       >
         <el-input 
           v-model="localAccount.password" 
-          type="password"
+          show-password
           placeholder="Введите пароль"
           @blur="handlePasswordChange"
         />
